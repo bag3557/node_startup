@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bag3557/node_startup.git"
+  },
+  "author": "Ajit Bhaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bag3557/node_startup/issues"
+  },
+  "homepage": "https://github.com/bag3557/node_startup#readme"
+}
